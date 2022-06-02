@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1629778163 source:e:\c++ vsc\pesoideal\main.cpp
+	<iostream>
+	<wchar.h>
+	<locale.h>
+	<stdio.h>
+	<math.h>
+

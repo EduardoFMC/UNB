@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631562795 source:e:\c++ vsc\lista 4\conta\main.cpp
+	<iostream>
+	<iomanip>
+	<locale.h>
+	<bits/stdc++.h>
+	<cstring>
+
